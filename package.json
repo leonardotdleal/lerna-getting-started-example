@@ -1,10 +1,19 @@
 {
-  "name": "root",
+  "name": "@leonardotdleal/lerna-hello-world",
   "private": true,
   "devDependencies": {
-    "lerna": "^5.5.2"
+    "lerna": "^5.5.2",
+    "semantic-release": "^19.0.5"
   },
   "workspaces": [
     "packages/*"
-  ]
+  ],
+  "version": "0.0.0-development",
+  "scripts": {
+    "semantic-release": "semantic-release"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leonardotdleal/lerna-getting-started-example.git"
+  }
 }
