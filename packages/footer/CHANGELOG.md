@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.1](https://github.com/leonardotdleal/lerna-getting-started-example/compare/@leonardotdleal/footer@1.1.0...@leonardotdleal/footer@1.1.1) (2022-09-28)
+
+**Note:** Version bump only for package @leonardotdleal/footer
+
+
+
+
+
 # [1.1.0](https://github.com/leonardotdleal/lerna-getting-started-example/compare/@leonardotdleal/footer@1.0.2...@leonardotdleal/footer@1.1.0) (2022-09-28)
 
 
