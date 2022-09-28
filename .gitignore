@@ -6,4 +6,4 @@ dist
 packages/remixapp/build
 packages/remixapp/public/build
 .env
-
+.npmrc
